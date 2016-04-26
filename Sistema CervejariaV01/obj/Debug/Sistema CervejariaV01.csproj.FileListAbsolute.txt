@@ -12,3 +12,14 @@ c:\users\jackson\documents\visual studio 2015\Projects\Sistema CervejariaV01\Sis
 C:\Users\Jackson\Documents\Sistema CervejariaV01\Sistema CervejariaV01\bin\Debug\Sistema CervejariaV01.exe.config
 C:\Users\Jackson\Documents\Sistema CervejariaV01\Sistema CervejariaV01\obj\Debug\Sistema CervejariaV01.exe
 C:\Users\Jackson\Documents\Sistema CervejariaV01\Sistema CervejariaV01\obj\Debug\Sistema CervejariaV01.pdb
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\bin\Debug\Sistema CervejariaV01.exe.config
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema CervejariaV01.exe
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema CervejariaV01.pdb
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\bin\Debug\Sistema CervejariaV01.exe
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\bin\Debug\Sistema CervejariaV01.pdb
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema CervejariaV01.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema_CervejariaV01.inicial.resources
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema_CervejariaV01.administracao.resources
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema_CervejariaV01.login.resources
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema_CervejariaV01.Properties.Resources.resources
+C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema CervejariaV01.csproj.GenerateResource.Cache

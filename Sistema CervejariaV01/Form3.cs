@@ -22,7 +22,7 @@ namespace Sistema_CervejariaV01
         {
 
             string linha;
-            using (StreamReader reader = new StreamReader("\\teste.txt"))
+            using (StreamReader reader = new StreamReader("C:\\Users\\Jackson\\Documents\\teste.txt"))
             {
                 linha = reader.ReadLine();
 
@@ -30,9 +30,10 @@ namespace Sistema_CervejariaV01
 
             if (linha == txt_senha.Text)
             {
+                this.Close();
                 administracao adm = new administracao();
                 adm.ShowDialog();
-                this.Close();
+               
             }
             else
             {
