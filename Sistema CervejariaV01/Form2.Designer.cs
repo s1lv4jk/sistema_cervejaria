@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btn_receitas = new System.Windows.Forms.Button();
-            this.btn_pedidos = new System.Windows.Forms.Button();
-            this.btn_ingredientes = new System.Windows.Forms.Button();
-            this.btn_relatorios = new System.Windows.Forms.Button();
             this.btn_fechar = new System.Windows.Forms.Button();
+            this.btn_relatorios = new System.Windows.Forms.Button();
+            this.btn_ingredientes = new System.Windows.Forms.Button();
+            this.btn_pedidos = new System.Windows.Forms.Button();
+            this.btn_receitas = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -51,51 +51,51 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Administração";
             // 
-            // btn_receitas
-            // 
-            this.btn_receitas.Location = new System.Drawing.Point(6, 19);
-            this.btn_receitas.Name = "btn_receitas";
-            this.btn_receitas.Size = new System.Drawing.Size(75, 23);
-            this.btn_receitas.TabIndex = 0;
-            this.btn_receitas.Text = "Receitas";
-            this.btn_receitas.UseVisualStyleBackColor = true;
-            // 
-            // btn_pedidos
-            // 
-            this.btn_pedidos.Location = new System.Drawing.Point(6, 48);
-            this.btn_pedidos.Name = "btn_pedidos";
-            this.btn_pedidos.Size = new System.Drawing.Size(75, 23);
-            this.btn_pedidos.TabIndex = 1;
-            this.btn_pedidos.Text = "Pedidos";
-            this.btn_pedidos.UseVisualStyleBackColor = true;
-            // 
-            // btn_ingredientes
-            // 
-            this.btn_ingredientes.Location = new System.Drawing.Point(6, 77);
-            this.btn_ingredientes.Name = "btn_ingredientes";
-            this.btn_ingredientes.Size = new System.Drawing.Size(75, 23);
-            this.btn_ingredientes.TabIndex = 3;
-            this.btn_ingredientes.Text = "Ingredientes";
-            this.btn_ingredientes.UseVisualStyleBackColor = true;
-            // 
-            // btn_relatorios
-            // 
-            this.btn_relatorios.Location = new System.Drawing.Point(6, 106);
-            this.btn_relatorios.Name = "btn_relatorios";
-            this.btn_relatorios.Size = new System.Drawing.Size(75, 23);
-            this.btn_relatorios.TabIndex = 4;
-            this.btn_relatorios.Text = "Relatórios";
-            this.btn_relatorios.UseVisualStyleBackColor = true;
-            // 
             // btn_fechar
             // 
-            this.btn_fechar.Location = new System.Drawing.Point(6, 135);
+            this.btn_fechar.Location = new System.Drawing.Point(71, 149);
             this.btn_fechar.Name = "btn_fechar";
             this.btn_fechar.Size = new System.Drawing.Size(75, 23);
             this.btn_fechar.TabIndex = 5;
             this.btn_fechar.Text = "Fechar";
             this.btn_fechar.UseVisualStyleBackColor = true;
             this.btn_fechar.Click += new System.EventHandler(this.btn_fechar_Click);
+            // 
+            // btn_relatorios
+            // 
+            this.btn_relatorios.Location = new System.Drawing.Point(71, 120);
+            this.btn_relatorios.Name = "btn_relatorios";
+            this.btn_relatorios.Size = new System.Drawing.Size(75, 23);
+            this.btn_relatorios.TabIndex = 4;
+            this.btn_relatorios.Text = "Relatórios";
+            this.btn_relatorios.UseVisualStyleBackColor = true;
+            // 
+            // btn_ingredientes
+            // 
+            this.btn_ingredientes.Location = new System.Drawing.Point(71, 91);
+            this.btn_ingredientes.Name = "btn_ingredientes";
+            this.btn_ingredientes.Size = new System.Drawing.Size(75, 23);
+            this.btn_ingredientes.TabIndex = 3;
+            this.btn_ingredientes.Text = "Ingredientes";
+            this.btn_ingredientes.UseVisualStyleBackColor = true;
+            // 
+            // btn_pedidos
+            // 
+            this.btn_pedidos.Location = new System.Drawing.Point(71, 62);
+            this.btn_pedidos.Name = "btn_pedidos";
+            this.btn_pedidos.Size = new System.Drawing.Size(75, 23);
+            this.btn_pedidos.TabIndex = 1;
+            this.btn_pedidos.Text = "Pedidos";
+            this.btn_pedidos.UseVisualStyleBackColor = true;
+            // 
+            // btn_receitas
+            // 
+            this.btn_receitas.Location = new System.Drawing.Point(71, 33);
+            this.btn_receitas.Name = "btn_receitas";
+            this.btn_receitas.Size = new System.Drawing.Size(75, 23);
+            this.btn_receitas.TabIndex = 0;
+            this.btn_receitas.Text = "Receitas";
+            this.btn_receitas.UseVisualStyleBackColor = true;
             // 
             // administracao
             // 
