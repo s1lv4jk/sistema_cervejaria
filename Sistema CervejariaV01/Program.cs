@@ -16,7 +16,7 @@ namespace Sistema_CervejariaV01
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new inicial());
+            Application.Run(new rec_criar());
         }
     }
 }
