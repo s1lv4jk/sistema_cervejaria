@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Sistema_CervejariaV01
 {
-    public partial class Form7 : Form
+    public partial class rec_excluir : Form
     {
-        public Form7()
+        public rec_excluir()
         {
             InitializeComponent();
         }
