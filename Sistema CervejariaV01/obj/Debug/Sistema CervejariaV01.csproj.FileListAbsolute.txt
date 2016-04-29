@@ -26,3 +26,6 @@ C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema Cerv
 C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema_CervejariaV01.receita.resources
 C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema_CervejariaV01.rec_visualizar.resources
 C:\Users\Jackson\Documents\Sistema CervejariaV01\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema_CervejariaV01.rec_criar.resources
+C:\Users\Jackson\Documents\GitHub\sistema_cervejaria\Sistema CervejariaV01\bin\Debug\Sistema CervejariaV01.exe.config
+C:\Users\Jackson\Documents\GitHub\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema CervejariaV01.exe
+C:\Users\Jackson\Documents\GitHub\sistema_cervejaria\Sistema CervejariaV01\obj\Debug\Sistema CervejariaV01.pdb
