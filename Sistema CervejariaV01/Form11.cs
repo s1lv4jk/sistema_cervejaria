@@ -10,11 +10,22 @@ using System.Windows.Forms;
 
 namespace Sistema_CervejariaV01
 {
-    public partial class Form11 : Form
+    public partial class ing_pedidos : Form
     {
-        public Form11()
+        public ing_pedidos()
         {
             InitializeComponent();
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
